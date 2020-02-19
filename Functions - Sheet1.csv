@@ -1,0 +1,9 @@
+Functions,
+f(n),Name
+11,Constant
+log⁡(n),Logarithmic
+n,Linear
+nlog(⁡n),Log Linear
+n^2,Quadratic
+n^3,Cubic
+2^n,Exponential
